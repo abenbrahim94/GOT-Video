@@ -7,6 +7,9 @@ This is a basic HTML / CSS / JavaScript build.
 ### Prerequisites
 Any browser of your choice will get the job done!
 
+### Videos
+There are videos for this assignment but they are too large to upoad on github.
+
 ### Authors
 Ahmed Benbrahim
 
