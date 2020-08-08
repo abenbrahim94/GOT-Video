@@ -1,4 +1,4 @@
-# BenbrahimA-GOT_Vidoe
+# BenbrahimA-GOT_Video
   This is an assignment on making dynamic video for web for Multimedia Authoring 2 from interactive media design at Fanshawe College.
   
 ### Getting Started
